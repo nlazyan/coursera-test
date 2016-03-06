@@ -4,12 +4,8 @@
 #header-nav {
 	background-color: #3D0D2A;
 }
-.navbar-brand{
-	float: left;
-	padding: 25px;
-	margin-bottom: -5px;
-}
-.navbar-brand h1 {
+
+#name {
 	font-family: 'Lora', serif;
 	color: #ddbece;
 	font-size: 1.5em;
